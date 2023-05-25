@@ -1,0 +1,21 @@
+[
+    {
+        "country": "Nigeria",
+        "continent": "Africa"
+    },
+    
+    {
+        "country": "South Africa",
+        "continent": "Africa"
+    },
+
+    {
+        "country": "England",
+        "continent": "Europeoan"
+    },
+
+    {
+        "country": "USA",
+        "continent": "America"
+    }
+]
